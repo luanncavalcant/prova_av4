@@ -1,0 +1,6 @@
+.descricao:invalid{
+    border-color:  red;
+}
+.descricao:valid{
+    border: 1px solid green;
+}
